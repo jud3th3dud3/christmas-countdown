@@ -1,5 +1,3 @@
-I created this project using the https://christmascountdown.live API to display the time left until Christmas! This web page also will tell you a Christmas joke.
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
